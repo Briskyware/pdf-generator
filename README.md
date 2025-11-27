@@ -19,7 +19,8 @@ A powerful C++ PDF generation library that creates PDF documents from JSON confi
 
 - C++17 or newer
 - CMake 3.12+
-- PDFWriter library (included as submodule)
+- PDFWriter library
+- RapidJson library
 
 ## Contributing
 

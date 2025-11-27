@@ -1,0 +1,1986 @@
+{
+  "file_name": "Sample1.pdf",
+  "height": 842,
+  "width": 595,
+  "font_size": 10,
+  "font_path": "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+  "margin": 5,
+  "header_height": 120,
+  "footer_height": 40,
+  "pages": [
+    {
+      "objects": [
+        {
+          "type": "table",
+          "border_width": 0.5,
+          "cell_padding": 5,
+          "font_size": 9,
+          "font_path": "/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf",
+          "table_width": 500,
+          "start_x": 50,
+          "start_y": 720,
+          "rows": [
+            {
+              "height": 25,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Header1",
+                  "colspan": 2,
+                  "rowspan": 1,
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "background_color": {
+                    "r": 0.7,
+                    "g": 0.9,
+                    "b": 0.9
+                  }
+                },
+                {
+                  "content": "Header2",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 150,
+                  "background_color": {
+                    "r": 0.7,
+                    "g": 0.9,
+                    "b": 0.9
+                  }
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "401000",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Sales Revenue",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "21,735 $",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "402000",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Revenue - Other",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Total Revenue",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "21,735 $",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "501000",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Cost of Goods Sold",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "(33,015.5) $",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Gross Profit",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "(11,280.5) $",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 25,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Operating Expenses",
+                  "colspan": 2,
+                  "rowspan": 1,
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "background_color": {
+                    "r": 0.7,
+                    "g": 0.9,
+                    "b": 0.9
+                  }
+                },
+                {
+                  "content": "Amount",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 150,
+                  "background_color": {
+                    "r": 0.7,
+                    "g": 0.9,
+                    "b": 0.9
+                  }
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Salaries & Related",
+                  "colspan": 3,
+                  "background_color": {
+                    "r": 0.9,
+                    "g": 0.9,
+                    "b": 0.9
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "502100",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Salaries Expense",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "502110",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Employer Share EI",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Occupancy Costs",
+                  "colspan": 3,
+                  "background_color": {
+                    "r": 0.9,
+                    "g": 0.9,
+                    "b": 0.9
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "502300",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Rent Expense",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "502310",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Head Office Rent",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Utilities",
+                  "colspan": 3,
+                  "background_color": {
+                    "r": 0.9,
+                    "g": 0.9,
+                    "b": 0.9
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "502410",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Electricity Expense",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "502420",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Water Expense",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "502430",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Internet Expense",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Insurance",
+                  "colspan": 3,
+                  "background_color": {
+                    "r": 0.9,
+                    "g": 0.9,
+                    "b": 0.9
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "502500",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Insurance Expense",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Office & Admin",
+                  "colspan": 3,
+                  "background_color": {
+                    "r": 0.9,
+                    "g": 0.9,
+                    "b": 0.9
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "502700",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Office Supplies Expense",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "503000",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Repair and Maintenance Expense",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "502900",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Travel Expense",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Marketing",
+                  "colspan": 3,
+                  "background_color": {
+                    "r": 0.9,
+                    "g": 0.9,
+                    "b": 0.9
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "502800",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Advertising Expense",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Professional Services",
+                  "colspan": 3,
+                  "background_color": {
+                    "r": 0.9,
+                    "g": 0.9,
+                    "b": 0.9
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "503100",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Professional Fees",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "503110",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Legal Fees",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "503120",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Accounting Fees",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Depreciation",
+                  "colspan": 3,
+                  "background_color": {
+                    "r": 0.9,
+                    "g": 0.9,
+                    "b": 0.9
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "502600",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Depreciation Expense",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Total Operating Expenses",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0 ",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Operating Income",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "(11,280.5) ",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 25,
+              "is_header": false,
+              "page_break_before": true,
+              "cells": [
+                {
+                  "content": "Other Income",
+                  "colspan": 2,
+                  "rowspan": 1,
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "background_color": {
+                    "r": 0.7,
+                    "g": 0.9,
+                    "b": 0.9
+                  }
+                },
+                {
+                  "content": "Amount",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 150,
+                  "background_color": {
+                    "r": 0.7,
+                    "g": 0.9,
+                    "b": 0.9
+                  }
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "601000",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Other Income",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "601120",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Sale of Scrap",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "601300",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Rental Income",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "601100",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Interest Income",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Total Other Income",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0 ",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 25,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Other Expenses",
+                  "colspan": 2,
+                  "rowspan": 1,
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "background_color": {
+                    "r": 0.7,
+                    "g": 0.9,
+                    "b": 0.9
+                  }
+                },
+                {
+                  "content": "Amount",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 150,
+                  "background_color": {
+                    "r": 0.7,
+                    "g": 0.9,
+                    "b": 0.9
+                  }
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "602000",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Other Expenses",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "602100",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Interest Expense",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Total Other Expenses ",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0 ",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 25,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Gains and Losses",
+                  "colspan": 2,
+                  "rowspan": 1,
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "background_color": {
+                    "r": 0.7,
+                    "g": 0.9,
+                    "b": 0.9
+                  }
+                },
+                {
+                  "content": "Amount",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 150,
+                  "background_color": {
+                    "r": 0.7,
+                    "g": 0.9,
+                    "b": 0.9
+                  }
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "601110",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Foreign Exchange Gain and Loss",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "602200",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Gain and Loss on Disposal of Assets",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 18,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "",
+                  "colspan": 1,
+                  "background_color": {
+                    "r": 1,
+                    "g": 1,
+                    "b": 1
+                  },
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 100
+                },
+                {
+                  "content": "Net Gain/Loss",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                },
+                {
+                  "content": "0 ",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "left",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5
+                }
+              ]
+            },
+            {
+              "height": 25,
+              "is_header": false,
+              "page_break_before": false,
+              "cells": [
+                {
+                  "content": "Net Income",
+                  "colspan": 2,
+                  "rowspan": 1,
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "background_color": {
+                    "r": 0.7,
+                    "g": 0.3,
+                    "b": 0.9
+                  }
+                },
+                {
+                  "content": "(11,280.5) $",
+                  "colspan": 1,
+                  "rowspan": 1,
+                  "h_alignment": "center",
+                  "v_alignment": "center",
+                  "font_size": 12,
+                  "is_header": false,
+                  "border_width": 0.5,
+                  "width": 150,
+                  "background_color": {
+                    "r": 0.7,
+                    "g": 0.3,
+                    "b": 0.9
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "header": {
+    "objects": [
+      {
+        "type": "photo",
+        "path": "image.jpg",
+        "x": 0,
+        "y": 10,
+        "width": 570,
+        "height": 145,
+        "scale": 0,
+        "angle": 0,
+        "index": 0
+      },
+      {
+        "type": "text",
+        "content": "Income Statement",
+        "x": 0,
+        "y": 90,
+        "font_size": 14,
+        "h_alignment": "center",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      {
+        "type": "text",
+        "content": "For the Period Ended 30 Nov 2025",
+        "x": 0,
+        "y": 60,
+        "font_size": 12,
+        "h_alignment": "center",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      {
+        "type": "line",
+        "x": 0,
+        "y": 10,
+        "x2": 570,
+        "y2": 10,
+        "stroke_color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "line_width": 0.5
+      }
+    ]
+  },
+  "footer": {
+    "objects": [
+      {
+        "type": "text",
+        "content": "Page ${PAGE_NUMBER}",
+        "x": 0,
+        "y": 10,
+        "font_size": 8,
+        "h_alignment": "center",
+        "color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        }
+      },
+      {
+        "type": "line",
+        "x": 5,
+        "y": 13,
+        "x2": 550,
+        "y2": 13,
+        "stroke_color": {
+          "r": 0,
+          "g": 0,
+          "b": 0
+        },
+        "line_width": 0.5
+      }
+    ]
+  }
+}
